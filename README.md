@@ -25,7 +25,5 @@ To parse arguments in c programm with no specific order and with check for the t
 ./program -leth <Integer>
 ./program i <String>   //missing '-'
 ./program -length <Integer> -i <String> -w <String> -length <Integer>  //duplicated argument
-./program -w <String> -length <Integer> -i <String>
-./program -i <String> -w <String> -length <Integer>
 ```
 
