@@ -2,9 +2,6 @@
 To parse arguments in c programm with no specific order and with check for the types and the argument spelling.
 
 <h3>How to run</h3>:
-```bash
-gcc arguments.c -o program
-```
 
 <h4>Those arguments should work:</h4>
 
